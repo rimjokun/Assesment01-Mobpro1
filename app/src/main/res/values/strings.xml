@@ -1,3 +1,23 @@
 <resources>
-    <string name="app_name">Assessment01</string>
+    <string name="app_name">Rekap POS</string>
+    <string name="gambar">Gambar %1$s</string>
+    <string name="bmi_intro">Rekap POS atau Rekap Point Of Sale merupakan aplikasi untuk mengitung pengeluaran dan pemasukan Keuangan</string>
+    <string name="nip">Nomor Induk Pegawai</string>
+    <string name="nama">Nama</string>
+    <string name="pengeluaran">Pengeluaran</string>
+    <string name="pemasukan">Pemasukan</string>
+    <string name="pria">Pria</string>
+    <string name="wanita">Wanita</string>
+    <string name="hitung">Hitung</string>
+    <string name="hitung_rp">Rp %1$.2f</string>
+    <string name="rugi">Rugi</string>
+    <string name="profit">Profit</string>
+
+    <string name="input_invalid">Tidak boleh kosong.</string>
+    <string name="bagikan">Bagikan</string>
+    <string name="bagikan_templet">NIP: %1$s \nNama: %2$s \nJenis kelamin: %3$s\n\nPemasukan: Rp %4$s\nPengeluaran: Rp %5$s\nTotal: %6$.2f\n%7$s </string>
+
+    <string name="tentang_developer">Tentang Developer</string>
+    <string name="copyright">Nama saya Andi Rimba Manggala Putra yang juga merupakan Mahasiswa D3 Rekayasa Perangkat Lunak Aplikasi, Fakultas Ilmu Terapan, Universitas Telkom. \n\nRekap POS merupakan sebuah aplikasi Android untuk menghitung Rekap Kasir atau Point Of Sale sehingga seorang kasir dapat mengetahui bahwa penjualan hari mengalami Profit atau Kerugian. \n\nAplikasi ini dibuat untuk memenuhi penilaian Assessment01 kelas Mobpro 1 . \n\nCopyright © 2021 – 2024 Andi Rimba Manggala Putra. \nAll rights reserved.</string>
+    <string name="kembali">Kembali</string>
 </resources>
